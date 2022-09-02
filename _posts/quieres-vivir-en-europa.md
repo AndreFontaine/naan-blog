@@ -4,6 +4,7 @@ description: "Todo lo que debes saber para vivir en Europa"
 banner: "/images/versailles.jpg"
 tags: ["Europa"]
 date: 18 de Febrero 2017
+time: 8
 ---
 
 

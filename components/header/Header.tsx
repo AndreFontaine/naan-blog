@@ -30,6 +30,8 @@ function Header() {
           </div>
         </Link>
         <nav className="flex gap-4 items-center">
+          <a href="">Sobre nosotros</a>
+          <a href="">Países visitados</a>
           <button
             className="text-gray-900 dark:text-white"
             onClick={() => setTheme(theme === "dark" ? "light" : "dark")}

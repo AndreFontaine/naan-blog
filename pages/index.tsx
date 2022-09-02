@@ -60,6 +60,7 @@ const Home = ({ posts }: Props) => {
             imageUrl={blogItem.data.banner}
             tags={blogItem.data.tags}
             date={blogItem.data.date}
+            time={blogItem.data.time}
           />
         ))}
       </div>

@@ -5,4 +5,5 @@ export interface TypeBlogMetaData {
   date: string;
   banner: string;
   tags: string[];
+  time: string;
 }
