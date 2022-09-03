@@ -2,25 +2,43 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
     <loc>/</loc>
-    <lastmod>2022-09-02T07:35:06.248Z</lastmod>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/antes-de-un-viaje</loc>
-    <lastmod>2022-09-02T07:35:06.248Z</lastmod>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/plan-a-y-primera-semana</loc>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/preguntas-frecuentes-sobre-presupuesto</loc>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/primeras-semanas-en-francia</loc>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/quieres-vivir-en-europa</loc>
-    <lastmod>2022-09-02T07:35:06.248Z</lastmod>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/una-experiencia-en-europa</loc>
-    <lastmod>2022-09-02T07:35:06.248Z</lastmod>
+    <lastmod>2022-09-03T12:51:30.212Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>

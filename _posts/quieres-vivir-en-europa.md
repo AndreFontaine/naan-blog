@@ -1,19 +1,16 @@
 ---
 title: "¿Quieres vivir en Europa?"
-description: "Todo lo que debes saber para vivir en Europa"
+description: "Lo que debes saber para vivir en Europa"
 banner: "/images/versailles.jpg"
 tags: ["Europa"]
-date: 18 de Febrero 2017
+date: 9 January 2018
 time: 8
 ---
 
-
 # ¿Quieres vivir en Europa?
-## Todo lo que debes saber para vivir en Europa
+## Lo que debes saber para vivir en Europa
 
-### Presentación:
-
-Hoy, querido lector, inicia un recorrido por diferentes lugares, todos son datos reales y con comentarios que son desde la mirada de quien les narra, muchos de los datos deben ser verificados para buscar su actualización, así que entenderá que algunos relatos estarán corriendo a contrarreloj, y otros servirán como tips generales para que se prepare a vivir la experiencia.
+Todo lo compartido en este artículo son datos reales y con comentarios que son desde la mirada de quien les narra, muchos de los datos deben ser verificados para buscar su actualización, así que entenderá que algunos relatos estarán corriendo a contrarreloj, y otros servirán como tips generales para que se prepare a vivir la experiencia.
 
 Como trata de nuestras experiencias, no incluyen datos de tours o de hoteles de 3, 4 o 5 ni siquiera de 2 estrellas, no es del turista que tiene todo pago. Somos personas que trabajamos, ahorramos y si podemos, viajamos, nos gusta caminar, conocer mucha gente, probar cualquier clase de comida y bebida que sea tradicional o típica, visitar museos,  sitios turísticos y cotidianos, y caminar más, siempre a nuestro ritmo.
 

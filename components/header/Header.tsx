@@ -30,7 +30,7 @@ function Header() {
           </div>
         </Link>
         <nav className="flex gap-4 items-center">
-          <a href="">Sobre nosotros</a>
+          <Link href='about' passHref>Sobre nosotros</Link>
           <a href="">Países visitados</a>
           <button
             className="text-gray-900 dark:text-white"
