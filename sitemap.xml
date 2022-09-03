@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
+    <loc>/about</loc>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
     <loc>/</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/antes-de-un-viaje</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/plan-a-y-primera-semana</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/preguntas-frecuentes-sobre-presupuesto</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/primeras-semanas-en-francia</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/quieres-vivir-en-europa</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/una-experiencia-en-europa</loc>
-    <lastmod>2022-09-02T08:04:38.737Z</lastmod>
+    <lastmod>2022-09-03T14:03:47.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
