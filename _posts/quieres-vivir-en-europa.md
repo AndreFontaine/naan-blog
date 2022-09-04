@@ -1,7 +1,7 @@
 ---
 title: "¿Quieres vivir en Europa?"
 description: "Lo que debes saber para vivir en Europa"
-banner: "/images/versailles.jpg"
+banner: "/images/articles/cover/versailles.jpg"
 tags: ["Europa"]
 date: 9 January 2018
 time: 8

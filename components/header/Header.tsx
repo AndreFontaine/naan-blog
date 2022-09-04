@@ -18,7 +18,7 @@ function Header() {
           <div className="flex gap-2 align-center text-center">
             <Image
               loader={customLoader}
-              src={`${prefix}/static/logo.png`}
+              src={`${prefix}/static/logo.svg`}
               alt="Profile Image"
               height="30"
               width="30"
@@ -30,8 +30,8 @@ function Header() {
           </div>
         </Link>
         <nav className="flex gap-4 items-center">
-          <Link href='about' passHref>Sobre nosotros</Link>
-          <a href="">Países visitados</a>
+          <Link href='about'>Sobre nosotros</Link>
+          <Link href='countries'>Países visitados</Link>
           <button
             className="text-gray-900 dark:text-white"
             onClick={() => setTheme(theme === "dark" ? "light" : "dark")}

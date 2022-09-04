@@ -1,7 +1,7 @@
 ---
 title: "Una experiencia en Europa"
 description: "Visa Trabajo-Vacaciones"
-banner: "/images/una-experiencia-en-europa.jpeg"
+banner: "/images/articles/cover/una-experiencia-en-europa.jpeg"
 tags: ["Europa"]
 date: 21 January 2017
 time: 6

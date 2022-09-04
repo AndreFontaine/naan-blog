@@ -1,7 +1,7 @@
 ---
 title: "Tips antes de un viaje"
 description: "Todo lo que debes y no debes llevas"
-banner: "/images/sample-blog.jpeg"
+banner: "/images/articles/cover/sample-blog.jpeg"
 tags: ["Francia"]
 date: 20 January 2017
 time: 2

@@ -1,7 +1,7 @@
 ---
 title: "Plan A y primera semana París (Francia)"
 description: "Trámites, idioma, comida en supermercados, transporte… gente de todo lado"
-banner: "/images/tour-eiffel.png"
+banner: "/images/articles/cover/tour-eiffel.png"
 tags: ["Europa"]
 date: 1 January 2018
 time: 6

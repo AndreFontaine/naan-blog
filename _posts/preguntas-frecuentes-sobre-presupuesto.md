@@ -1,7 +1,7 @@
 ---
 title: "Preguntas frecuentes"
 description: "sobre presupuesto Prepare el bolsillo"
-banner: "/images/rer-paris.png"
+banner: "/images/articles/cover/rer-paris.png"
 tags: ["Europa"]
 date: 25 January 2017
 time: 6
