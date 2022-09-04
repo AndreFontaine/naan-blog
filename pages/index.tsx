@@ -50,6 +50,9 @@ const Home = ({ posts }: Props) => {
         }}
       />
 
+      <div className="flex justify-center text-slate-900 dark:text-white font-bold text-4xl lg:text-4xl px-4 py-2 my-6">
+        Últimas entradas
+      </div>
       <div className="flex flex-wrap p-5 gap-5 justify-evenly">
         {posts.map((blogItem: TypeBlogDetails) => (
           <BlogPreview

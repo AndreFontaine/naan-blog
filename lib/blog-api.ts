@@ -18,12 +18,15 @@ export function getPostBySlug(slug: string) {
   return { slug: realSlug, content, data: data as TypeBlogMetaData };
 }
 
-export function getAllPosts() {
+export function getAllPosts(country: string = '') {
   const slugs = getPostSlugs();
-  const posts = slugs
+  let posts = slugs
     .map((slug) => getPostBySlug(slug))
     .sort((post1, post2) =>
       new Date(post1.data.date) > new Date(post2.data.date) ? -1 : 1
     );
+  if (country) {
+    posts = posts.filter(word => word.data.tags.includes(country));
+  }
   return posts;
 }

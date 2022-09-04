@@ -35,7 +35,7 @@ const visitedCountries: CountryDescription[] = [
   {
     name: 'Alemania',
     flag: '🇩🇪',
-    description: 'En tierras teutónas',
+    description: 'En tierras teutonas',
     imageUrl: '/images/countries/cover/alemania.jpeg',
   },
   {

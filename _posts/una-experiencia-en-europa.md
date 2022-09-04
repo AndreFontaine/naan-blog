@@ -2,7 +2,7 @@
 title: "Una experiencia en Europa"
 description: "Visa Trabajo-Vacaciones"
 banner: "/images/articles/cover/visa-vacances-travail.png"
-tags: ["Europa"]
+tags: ["Europa", "Francia"]
 date: 12 January 2020
 time: 5
 ---
