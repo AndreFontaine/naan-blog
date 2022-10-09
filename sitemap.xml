@@ -2,67 +2,73 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
     <loc>/about</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/countries</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/country/colombia</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/country/francia</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/antes-de-un-viaje</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/plan-a-y-primera-semana</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/preguntas-frecuentes-sobre-presupuesto</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/primeras-semanas-en-francia</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/quieres-vivir-en-europa</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/una-experiencia-en-europa</loc>
-    <lastmod>2022-09-04T13:45:34.740Z</lastmod>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/visa-de-trabajo</loc>
+    <lastmod>2022-10-09T16:36:42.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
