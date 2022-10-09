@@ -71,13 +71,15 @@ Los documentos a llevar en esta ocasión fueron:
 - Fotos para la visa.
 - Lo correspondiente a 100 euros en la moneda local (~$380.000 pesos colombianos en ese momento).
 
-Diez días después obtuve mi pasaporte por vía postal con la visa de trabajo pegada a él, válida por un año a partir del 4 de marzo de 2019 (día de mi cumpleaños) 🎂.
+Diez días después obtuve mi pasaporte por vía postal con la visa de trabajo pegada a él, válida por un año a partir del 1 de marzo de 2019.
 
-🗓️ **Marzo de 2019**: Estaba de nuevo en Francia listo para empezar una nueva experiencia. 🙂
+![Visa Salarie](/images/articles/posts/visa-salarie.png)
+
+🗓️ **Marzo de 2019**: El 4 de marzo aterizaba de nuevo en Francia listo para empezar una nueva experiencia. 🙂
 
 **Sin embargo esto aún no se terminaba.**
 
-A la llegada a Francia uno se debe poner en contacto con los servicios de la OFII correspondiente a la región donde está ubicada la empresa, esto con el fin de validar la visa de larga estadía (Este proceso ahora se hace a través de la página de [extranjeros en Francia](administration-etrangers-en-france.interieur.gouv.fr)).
+A la llegada a Francia uno se debe poner en contacto con los servicios de la OFII correspondiente a la región donde está ubicada la empresa, esto con el fin de validar la visa de larga estadía (Este proceso ahora se hace a través de la página de [extranjeros en Francia](https://administration-etrangers-en-france.interieur.gouv.fr)).
 
 Pero esto será para otro artículo.
 
