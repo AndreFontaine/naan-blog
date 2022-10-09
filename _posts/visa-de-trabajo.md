@@ -12,7 +12,7 @@ time: 10
 
 ### Mucha paciencia y trámites
 
-En este artículo te comparto mi experiencia de pasar de una visa de vacasiones y trabajo (VVT) a una visa de trabajo (Salarié). 
+En este artículo te comparto mi experiencia de pasar de una visa de vacaciones y trabajo (VVT) a una visa de trabajo (Salarié). 
 
 Después de pasar 9 meses viviendo, y 6 meses trabajando en Francia se acercaba el final de mi visa y de mi contrato de trabajo a término definido **(CDD)**. Era agosto y yo ya había averiguado cuál era el proceso para hacer el cambio a una visa de trabajo para continuar mi vida aquí, sin embargo la información no era clara y todo lo que conseguía estaba escrito con un lenguaje técnico y complicado, aún más cuando mi dominio del idioma era muy básico.
 
@@ -32,7 +32,7 @@ Esta visa como otras, es una etiqueta pegada en el pasaporte (tal como la de Est
 
 🗓️ **Agosto de 2018**: Lo primero que se debía hacer era probar la indisponibilidad (*non-opposabilité*) para esta oferta de trabajo en el mercado francés. Es importante que la empresa pueda justificar que está buscando a un extranjero porque no lo ha podido encontrar en Francia. De manera que lo primero que debía hacer la empresa era publicar una oferta de trabajo específica a mi perfil, esto por al menos 3 semanas en *Pôle Emploi* (organismo que se encarga de gestiones de empleo en Francia). Al no recibir ofertas pertinentes, se pudo justificar que la empresa requeria las competencias que tiene la persona extranjera (yo 😁).
 
-🗓️ **Septiembre de 2018**: La empresa completó el formulario CERFA 15187-02, que permite comenzar formalmente el proceso con la *DIRECCTE* (Dirección regional de Empresa, Competencia, Consumo, Trabajo y Empleo), en este caso para Monrouge que es donde se establecía la empresa. 
+🗓️ **Septiembre de 2018**: La empresa completó el formulario [CERFA 15187-02](https://entreprendre.service-public.fr/vosdroits/R46094), que permite comenzar formalmente el proceso con la *DIRECCTE* (Dirección regional de Empresa, Competencia, Consumo, Trabajo y Empleo), en este caso para Monrouge que es donde se establecía la empresa. 
 
 Este documento, que consta de 5 páginas, es fundamental para la instrucción del expediente. Para mí caso la empresa sólo fue relevante llenar las dos primeras páginas.
 
