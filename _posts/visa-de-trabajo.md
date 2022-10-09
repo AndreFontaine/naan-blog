@@ -10,100 +10,75 @@ time: 10
 # Llegando de nuevo a Francia, ahora con una visa de trabajo
 ## De la VVT a la Salarié
 
-### Trámites y decisiones:
+### Mucha paciencia y trámites
 
-Début 2017, Sogilis décide de recruter un salarié étranger, australien plus précisément, pour intégrer son équipe de développeurs web. Voici la procédure détaillée que nous avons du suivre (Visa VLS-TS) pour que Haze puisse entrer et travailler pour notre PME française.
+En este artículo te comparto mi experiencia de pasar de una visa de vacasiones y trabajo (VVT) a una visa de trabajo (Salarié). 
 
-Nous sommes en février 2017. Sogilis, société de service en ingénierie informatique grenobloise, comporte une petite quarantaine de salariés. L’un d’eux est à Melbourne en Australie, parti y vivre quelques années et y faire du business development, « offshore inversé » comme nous aimons l’appeler, au vu des tarifs journaliers pratiqués par les développeurs australiens.
+Después de pasar 9 meses viviendo, y 6 meses trabajando en Francia se acercaba el final de mi visa y de mi contrato de trabajo a término definido **(CDD)**. Era agosto y yo ya había averiguado cuál era el proceso para hacer el cambio a una visa de trabajo para continuar mi vida aquí, sin embargo la información no era clara y todo lo que conseguía estaba escrito con un lenguaje técnico y complicado, aún más cuando mi dominio del idioma era muy básico.
 
-Notre patron, Christophe, rejoint notre collègue Etienne pour quelques semaines à Melbourne. Ils y rencontrent Haze, brillant développeur australien, au réseau local hyper-développé, et lui proposent un nouveau challenge : Venir vivre et travailler en France. Haze accepte (il aime les défis!) et nous voici lancés dans la procédure !
+Afortunadamente mi jefe estaba a gusto con mi trabajo y me preguntó si me quería quedar, que si era el caso él y la empresa estaban dispuestos a ayudarme en lo que necesitara para solicitar una visa de trabajo. Mi respuesta evidentemente fue que sí, así que empecé formalmente a buscar toda la información necesaria para llevar a cabo este trámite.
 
-Je vais tenter de vous décrire de manière synthétique et détaillée l’ensemble des étapes que j’ai suivies pour faire en sorte qu’il puisse nous rejoindre début septembre à Grenoble 🙂
+Intentaré detallar las etapas que llevé a cabo para obtener esta visa (recordando que fue solicitada entre 2018 y 2019). 
 
-L’embauche de Haze se fera en CDI. Nous pouvons donc entamer une procédure de VLS-TS (Visa Long Séjour valant Titre de Séjour) pour un motif salarié, et non pas travailleur temporaire (pour les CDD) : Carte de séjour « passeport talent » (4 ans maximum) « ]1  car les conditions sont assez strictes, que ce soit pour la qualification « salarié qualifié », « recrutement dans une Jeune Entreprise Innovante » ou « emploi hautement qualifié ».
+La empresa me ofreció un nuevo contrato a término indefinido **(CDI)** con una cláusula que decía que este contrato solo sería efectivo a condición de que yo obtuviese la visa. 
 
-« Le visa de long séjour valant titre de séjour (VLS-TS) permet d’entrer en France et d’y séjourner de 4 mois à 1 an sans avoir à demander tout de suite un titre de séjour. Il s’agit d’une vignette apposée sur votre passeport par l’administration. »
+El proceso entonces a llevar a cabo tiene el nombre de *procédure de VLS-TS (Visa Long Séjour valant Titre de Séjour) pour un motif salarié*, que se traduce como: proceso de visa de larga estancia válida como permiso de residencia por un motivo de trabajo. A tener en cuenta que existen diferentes categorías dentro de la visa de trabajo dependiendo de los ingresos o de si uno ha hecho dos años de estudios superiores acá en Francia. Ninguno de estos anteriores era mi caso por lo que opté por el proceso regular.
 
+La visa de larga estadía a la que aplicaba permite entrar a Francia y vivir aquí de 4 meses a 1 año sin tener que solicitar de inmediato un permiso de residencia (este proceso se debe hacer hasta dos o tres meses antes del vencimiento de la visa). 
 
+Esta visa como otras, es una etiqueta pegada en el pasaporte (tal como la de Estados Unidos o la misma VVT).
 
-Avril 2017 : La première étape est de prouver la « non-opposabilité » de l’offre d’emploi sur le marché français. Il est important que l’entreprise puisse justifier que si elle va chercher à l’étranger les compétences, c’est parce qu’elle n’a pas pu les trouver en France. Il nous a donc fallu publier une offre d’emploi sur Pôle Emploi. (Attention, les annonces sur d’autres sites d’emploi ne fonctionnent pas, il faut publier sur PE), sur une durée d’au moins 3 semaines. N’ayant reçu qu’une seule réponse à cette annonce, non pertinente, nous avons ainsi pu justifier de notre besoin de compétences étrangères.
+### **Aquí el resumen del proceso que llevé a cabo**:
 
+🗓️ **Agosto de 2018**: Lo primero que se debía hacer era probar la indisponibilidad (*non-opposabilité*) para esta oferta de trabajo en el mercado francés. Es importante que la empresa pueda justificar que está buscando a un extranjero porque no lo ha podido encontrar en Francia. De manera que lo primero que debía hacer la empresa era publicar una oferta de trabajo específica a mi perfil, esto por al menos 3 semanas en *Pôle Emploi* (organismo que se encarga de gestiones de empleo en Francia). Al no recibir ofertas pertinentes, se pudo justificar que la empresa requeria las competencias que tiene la persona extranjera (yo 😁).
 
+🗓️ **Septiembre de 2018**: La empresa completó el formulario CERFA 15187-02, que permite comenzar formalmente el proceso con la *DIRECCTE* (Dirección regional de Empresa, Competencia, Consumo, Trabajo y Empleo), en este caso para Monrouge que es donde se establecía la empresa. 
 
-Mai 2017 : Nous avons ensuite complété le formulaire CERFA 15187*02, permettant d’enclencher la procédure au niveau de la DIRECCTE (Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l’emploi) de notre département.
+Este documento, que consta de 5 páginas, es fundamental para la instrucción del expediente. Para mí caso la empresa sólo fue relevante llenar las dos primeras páginas.
 
+La lista de documentos a adjuntar con el envío del formulario fue la siguiente:
 
+- Certificados de trabajo en el país de origen (los solicité a las últimas tres empresas en las que trabajé en Colombia).
+- Una copia del pasaporte,
+- Copia de mi diploma de ingeniero, apostillado y traducido.
+- Hoja de vida detallada (en francés).
+- Copia de la oferta de empleo puesta en Pôle Emploi con la fecha de publicación y número de renovaciones.
+- Copia del futuro contrato de trabajo en Francia, mencionando que es en CDI.
+- Una carta detallando la descripción precisa del empleo, tareas específicas a realizar, exigencias profesionales determinantes para ocupar el trabajo.
 
-Ce document, qui comporte 5 pages, est fondamental pour l’instruction du dossier du futur salarié. Pour nous, seules les 2 premières pages étaient pertinentes.
+Este expediente completo fue enviado a la administración (DIRECCTE) el 9 de septiembre de 2018.
 
-La liste des pièces à fournir est la suivante :
+***Nota a tener en cuenta***: la contratación de un empleado extranjero no es gratuita y que al empleador le costará alrededor del 55% del salario mensual bruto que se pagará el año siguiente a manera de impuesto.
 
-Certificats de travail du salarié dans son pays d’origine. En l’occurrence, en Australie, les employeurs ne rédigent pas de « certificats de travail ». Nous avons donc joint les 3 derniers contrats de travail de notre futur collègue.
-Une copie de son passeport
-Copie de son permis de conduire
-et une copie de son diplôme
-son CV détaillé
-la copie de l’offre publié sur Pôle Emploi, sa date de publication initiale et le nombre de renouvellements.
-La copie de son futur contrat de travail français, mentionnant CDI
-le détail des points 4.0 sur papier libre, à savoir :
+🗓️ **Noviembre de 2018**: Se terminó mi contrato y expiró mi visa y aún no tenía respuesta de la DIRECCTE, así que volvimos a Colombia a continuar con la espera.
 
-description précise de l’emploi occupé ou de la mission
-spécificité des tâches à effectuer
-exigences professionnelles déterminantes pour occuper l’emploi
-Ce dossier complet a été envoyé à l’administration (DIRECCTE UT38) le 9 mai 2017.
+🗓️ **Diciembre de 2018**: A finales de este mes recibí un correo de la empresa diciendo que habían recibido una decisión favorable para mi caso, ahora debería esperar a que los papeles fueran enviados a la embajada y a recibir más información de parte de la DIRECCTE para continua el proceso.
 
-L’embauche d’un salarié étranger n’est pas gratuite. Sachez que celle-ci vous coûtera environ 55% de son salaire mensuel brut en taxe.
+🗓️ **Enero de 2019**: Habían transcurrido más de tres meses estando en Bogotá y más de tres semanas desde el último correo mencionado anteriormente, sin embargo no había recibido indicaciones para continuar. 
 
-Le salarié devra également s’acquitter de frais de procédures de 250€ à payer en timbre fiscal. Cette somme est dûe dans le mois de son arrivée en France.
+Me contacté con la embajada de Francia en Bogotá, pero en repetidas ocasiones me dijeron que aún no habían recibido mi expediente. Así que me lancé a llamar personalmente a la *DIRECCTE* y me informaron que me habían enviado toda la información al correo electrónico, el cual no había recibido ya que la chica de recursos humanos había puesto mal mi email) además no habían indicado mi dirección postal en Bogotá por lo que no habían podido tramitar el *dossier* aún. 
 
-Après de (très) nombreux appels à la DIRECCTE UT38; service « introduction de main d’oeuvre étrangère », nous avons obtenu un accord de la part des services de l’Etat le 29 juin 2017. Il faut habituellement compter 1 à 2 mois pour obtenir un accord de l’administration.
+🗓️ **Febrero de 2019**: Gracias a la ayuda del agente de la DIRECCTE la situación se desbloqueó, todo mi *dossier* fue finalmente enviado a la embajada al mismo tiempo que era transmitido a la **OFII** (Oficina Francesa de Inmigración e Integración). Solicité una cita para el trámite de la visa de trabajo en la embajada de Francia en Bogotá.
 
-Cet accord se traduit par l’envoi du dossier complet de notre futur salarié à l’attention du consulat général de France dans son pays d’origine (En l’occurrence, consulat français à Sydney). Il y sera ensuite convoqué pour un entretien pour délivrance de visa.
+Desde este punto en adelante todo fue bastante rápido, la cita la pude solicitar casi de inmediato.
 
-Par ailleurs, son dossier est ensuite transmis à l’OFII (Office Français de l’Immigration et de l’Intégration) qui est en charge de la suite de la procédure depuis la France.
+Los documentos a llevar en esta ocasión fueron:
 
-Notre futur collègue Haze a donc été convoqué pour un entretien début août 2017 au Consulat, où il a du fournir l’ensemble de ses papiers d’identité, ainsi que le cerfa 15187*02 original et visé par la DIRECCTE. Il y a rempli le « LONG-STAY VISA APPLICATION FORM » https://www.diplomatie.gouv.fr/IMG/pdf/Long_Stay_Visa_Application_Form-2.pdf
+- Documento de identidad nacional (cédula).
+- Pasaporte.
+- Formulario cerfa 15187*02 original y sellado por la DIRECCTE.
+- Formulario de solicitud de visa larga estadía (disponible en la página de la embajada).
+- Fotos para la visa.
+- Lo correspondiente a 100 euros en la moneda local (~$380.000 pesos colombianos en ese momento).
 
-Dix jours plus tard, il obtenait son accord d’entrée sur le territoire français, moyennant 99€ au service immigration/visa de l’aéroport et démarrait son contrat de travail le 4 septembre 2017 !
+Diez días después obtuve mi pasaporte por vía postal con la visa de trabajo pegada a él, válida por un año a partir del 4 de marzo de 2019 (día de mi cumpleaños) 🎂.
 
+🗓️ **Marzo de 2019**: Estaba de nuevo en Francia listo para empezar una nueva experiencia. 🙂
 
+**Sin embargo esto aún no se terminaba.**
 
-Mais la procédure n’est pas terminée 🙂
+A la llegada a Francia uno se debe poner en contacto con los servicios de la OFII correspondiente a la región donde está ubicada la empresa, esto con el fin de validar la visa de larga estadía (Este proceso ahora se hace a través de la página de [extranjeros en Francia](administration-etrangers-en-france.interieur.gouv.fr)).
 
-Arrivé en France, il a pris contact avec les services de l’OFII à Grenoble, afin de valider son visa long séjour valant titre de séjour et autorisation de travail.
+Pero esto será para otro artículo.
 
-Il a été convoqué le 13 octobre 2017, afin de :
-
-Valider une visite médicale avec un médecin OFII, à laquelle il devait amener l’ensemble de ses antécédents médicaux (carnet de vaccination, ordonnances, compte-rendus d’hospitalisation récents, etc.) ainsi qu’une radio pulmonaire. Celle-ci devait être effectuée au centre anti-tuberculeux dans les 15 jours avant ce RDV.
-
-Passer un test de langue française, écrit et oral, à l’issue duquel une note sur 25 lui sera attribuée. Celle-ci conditionnera le nombre d’heures de cours de français qu’il devra réaliser pour conserver le bénéfice de son visa.
-
-Faire un « entretien d’accueil » avec un agent OFII, pour échanger sur ses motivations, et sur toute question qu’il se poserait à son arrivée en France.
-
-Signer un « contrat d’intégration républicaine »
-
-
-
-Il obtient alors le visa « OFII » qui vaut titre de long séjour.
-
-
-
-Avec sa bonne note de 19/25, Haze devra suivre 100 heures de cours de français, ce qui est le minimum requis pour valider le visa. Ce nombre d’heures peut être porté à 400h.
-
-Elles démarreront mi novembre, à raison de 2x3h par semaine.
-
-Il devra également assister à deux journées « d’introduction à l’histoire et à la culture françaises », programmées fin décembre.
-
-A l’issue de l’ensemble de la procédure, son visa long séjour sera validé, pour un première période d’un an, renouvelable.
-
-En conclusion ?
-
-Une procédure entamée « from scratch » en mars 2017, qui aura pris 9 mois au total. 5 mois avant son entrée officielle en France pour l’ensemble de la procédure d’autorisation, puis 4 autres mois de formalités « autres » permettant de valider son droit à vivre et travailler ici.
-Une grosse soixantaine d’heures passées (je n’y connaissait absolument rien). Comprendre la procédure, rassembler l’ensemble des pièces, relancer, et expliquer le tout en anglais à Haze 🙂
-Et vous ? Avez-vous déjà recruté un salarié étranger ? Quelle procédure avez-vous suivie ?
-
-Nous serons ravis d’en discuter, et de répondre à toutes vos questions. La procédure est longue est complexe, autant s’appuyer sur l’expérience d’une entreprise qui est déjà passée par là… et avec succès 😉
-
-De plus, nous recrutons en permanence, alors que vous soyez étranger ou non, n’hésitez pas à postuler ! https://sogilis.com/contact/
-
-Illustration de l'article
+**En resumen es un proceso largo, pero si se cuenta con el apoyo del empleador, con paciencia al final se puede lograr. Es un proceso que sé ahora puede tardar de uno a dos meses, pero que en mi caso en total fueron casi 4.**
